@@ -7,6 +7,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class connectDB {
+	public static void testMethod() {
+		
+	}
 
 	public static void main(String[] args) {
 		Connection con=null;
